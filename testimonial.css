@@ -1,0 +1,14 @@
+.testimonial-section .testimonial-content {
+  text-align: center;
+}
+.testimonial-section .testimonial-content h1 {
+  font-size: 40px;
+}
+
+.testimonial-section .testimonial-content p {
+  font-size: 20px;
+}
+
+.left-content h1 {
+  color: goldenrod;
+}

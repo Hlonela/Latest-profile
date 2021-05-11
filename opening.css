@@ -1,0 +1,19 @@
+.left-content .home-section .home-content #name {
+  font-size: 30px;
+  font-size: 120px;
+  line-height: 120px;
+  font-weight: 300px;
+  color: goldenrod;
+  font-family: "Open Sans", sans-serif;
+}
+
+.left-content .home-section .home-content #surname {
+  font-size: 30px;
+  font-size: 120px;
+  line-height: 120px;
+  font-weight: 300px;
+  color: goldenrod;
+  font-family: "Open Sans", sans-serif;
+  position: relative;
+  left: 130px;
+}
